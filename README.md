@@ -6,7 +6,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Thanks for checking out our solution to this front-end coding challenge. We hope you like it!
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
